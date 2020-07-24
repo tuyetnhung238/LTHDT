@@ -1,0 +1,6 @@
+E:\LTHDT\đồ án\Project1\Project\Project\bin\Debug\Project.exe.config
+E:\LTHDT\đồ án\Project1\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\LTHDT\đồ án\Project1\Project\Project\bin\Debug\Project.exe
+E:\LTHDT\đồ án\Project1\Project\Project\bin\Debug\Project.pdb
+E:\LTHDT\đồ án\Project1\Project\Project\obj\Debug\Project.exe
+E:\LTHDT\đồ án\Project1\Project\Project\obj\Debug\Project.pdb
